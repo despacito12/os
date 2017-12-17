@@ -1,0 +1,142 @@
+.una1 {
+  width: 100%;
+  margin: 0px auto;
+  
+}
+.una2 {
+  width: 100%;
+  background:#49E1CD;
+  float: left;
+  border-style: double;
+  border-width: 3px;
+  border-color: #08150A;
+}
+
+
+
+.una3 {
+ height: 120px;
+
+}
+
+
+
+.time1 {
+  width: 100%;
+  margin: 0px auto;
+
+}
+.time2 {
+  width: 100%;
+  background: #49E1CD;
+  float: left;
+  border-style: double;
+  border-width: 3px;
+  border-color: #08150A;
+}
+
+
+
+.time3 {
+  height: 400px;
+  overflow-y: scroll;
+}
+
+.st {
+  width: 100%;
+  margin: 0px auto;
+ }
+.st2 {
+  width: 100%;
+  background: #49E1CD;
+  float: left;
+  border-style: double;
+  border-width: 3px;
+  border-color: #08150A;
+}
+.st3 {
+ height: 175px;
+  
+}
+
+.cpu1 {
+  width: 100%;
+  margin: 0px auto;
+}
+.cpu2 {
+  width: 100%;
+  background: #49E1CD;
+  float: left;
+  border-style: double;
+  border-width: 3px;
+  border-color: #08150A;
+  font-size: 30px;
+}
+
+
+
+.cpu3 {
+  height: 200px;
+ 
+
+}
+
+
+.tat1 {
+  width: 100%;
+  margin: 0px auto;
+}
+.tat2 {
+  width: 32.7%;
+  background:#49E1CD;
+  float: left;
+  border-style: double;
+  border-width: 3px;
+  border-color: #08150A;
+}
+
+
+
+.tat3 {
+ height: 200px;
+
+
+}
+
+.start1 {
+  width: 100%;
+  margin: 0px auto;
+}
+.start2 {
+  width: 32.7%;
+  background: #49E1CD;
+  float: left;
+  border-style: double;
+  border-width: 3px;
+  border-color: #08150A;
+}
+
+
+
+.start3 {
+  height: 200px;
+
+
+}
+.wt1 {
+  width: 100%;
+  margin: 0px auto;
+}
+.wt2 {
+  width: 34.6%;
+  background:#49E1CD;
+  float: right;
+ border-style: double;
+  border-width: 3px;
+  border-color: #08150A;
+}
+
+
+
+.wt3 {
+  height: 200px;
